@@ -1,5 +1,4 @@
 "# gittutorials" 
 
-building a repository with the Krish Naik course
+building a repository for tutorials and references
 
-modifying this file and adding a second .txt file
